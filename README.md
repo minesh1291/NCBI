@@ -28,4 +28,6 @@ column 4 : strand no. on which gene is located ( 1 for positive, 2 for negative)
 
 Help
 ====
-contact: minesh.1291@gmail.com
+https://github.com/minesh1291/NCBI/issues
+
+direct contact: minesh.1291@gmail.com
